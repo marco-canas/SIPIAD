@@ -1,0 +1,101 @@
+identificador_cliente,fecha_afiliacion,sector_economico,ingresos_mensuales_cop,score_credito,perfil_credito,satisfaccion
+1001,2026-05-01,Comercio Minorista,2325131.79,424,Alto Riesgo,1.0
+1002,2026-05-02,Comercio Minorista,3181586.69,698,Riesgo Medio,4.0
+1003,2026-05-03,Minería/Servicios,4720182.31,722,Premium / Excelente,4.0
+1004,2026-05-04,Comercio Minorista,2357343.7,643,Riesgo Medio,2.0
+1005,2026-05-05,Minería/Servicios,6790040.76,652,Riesgo Medio,4.0
+1006,2026-05-06,Comercio Minorista,1437155.58,409,Alto Riesgo,1.0
+1007,2026-05-07,Ganadería/Agro,3470482.03,544,Riesgo Medio,5.0
+1008,2026-05-08,Comercio Minorista,2842338.64,679,Riesgo Medio,
+1009,2026-05-09,Independientes,1630269.55,565,Riesgo Medio,2.0
+1010,2026-05-10,Ganadería/Agro,3993344.89,515,Riesgo Medio,3.0
+1011,2026-05-11,Minería/Servicios,4429862.71,709,Premium / Excelente,5.0
+1012,2026-05-12,Independientes,2824021.76,396,Alto Riesgo,3.0
+1013,2026-05-13,Minería/Servicios,6247853.49,784,Premium / Excelente,
+1014,2026-05-14,Independientes,3330926.36,673,Riesgo Medio,3.0
+1015,2026-05-15,Ganadería/Agro,5272935.72,669,Riesgo Medio,3.0
+1016,2026-05-16,Minería/Servicios,5205050.32,723,Premium / Excelente,5.0
+1017,2026-05-17,Comercio Minorista,2688431.79,578,Riesgo Medio,4.0
+1018,2026-05-18,Ganadería/Agro,3448463.37,640,Riesgo Medio,4.0
+1019,2026-05-19,Independientes,2330134.27,475,Alto Riesgo,1.0
+1020,2026-05-20,Ganadería/Agro,2851115.95,655,Riesgo Medio,3.0
+1021,2026-05-21,Ganadería/Agro,6190715.35,753,Premium / Excelente,4.0
+1022,2026-05-22,Ganadería/Agro,5077568.73,757,Premium / Excelente,5.0
+1023,2026-05-23,Minería/Servicios,3646622.68,562,Riesgo Medio,5.0
+1024,2026-05-24,Minería/Servicios,5064496.49,741,Premium / Excelente,4.0
+1025,2026-05-25,Ganadería/Agro,6654440.78,656,Riesgo Medio,5.0
+1026,2026-05-26,Independientes,1732714.19,504,Riesgo Medio,1.0
+1027,2026-05-27,Minería/Servicios,3675314.05,742,Premium / Excelente,4.0
+1028,2026-05-28,Minería/Servicios,4097685.63,725,Premium / Excelente,4.0
+1029,2026-05-29,Ganadería/Agro,6723570.79,695,Riesgo Medio,
+1030,2026-05-30,Independientes,2900753.29,527,Riesgo Medio,5.0
+1031,2026-05-31,Comercio Minorista,2375121.9,505,Riesgo Medio,1.0
+1032,2026-06-01,Comercio Minorista,2551251.25,443,Alto Riesgo,4.0
+1033,2026-06-02,Comercio Minorista,2960332.07,428,Alto Riesgo,3.0
+1034,2026-06-03,Ganadería/Agro,4836298.93,770,Premium / Excelente,3.0
+1035,2026-06-04,Minería/Servicios,4609063.82,637,Riesgo Medio,4.0
+1036,2026-06-05,Minería/Servicios,5898880.25,785,Premium / Excelente,4.0
+1037,2026-06-06,Independientes,2160617.24,540,Riesgo Medio,1.0
+1038,2026-06-07,Ganadería/Agro,5653499.12,823,Premium / Excelente,3.0
+1039,2026-06-08,Ganadería/Agro,4559220.88,760,Premium / Excelente,4.0
+1040,2026-06-09,Comercio Minorista,2962021.25,459,Alto Riesgo,4.0
+1041,2026-06-10,Independientes,1857438.13,358,Alto Riesgo,2.0
+1042,2026-06-11,Independientes,1886533.84,518,Riesgo Medio,
+1043,2026-06-12,Independientes,2279513.27,561,Riesgo Medio,2.0
+1044,2026-06-13,Comercio Minorista,2476780.01,606,Riesgo Medio,1.0
+1045,2026-06-14,Comercio Minorista,3473190.44,651,Riesgo Medio,
+1046,2026-06-15,Ganadería/Agro,5790630.8,739,Premium / Excelente,4.0
+1047,2026-06-16,Minería/Servicios,5289461.76,835,Premium / Excelente,3.0
+1048,2026-06-17,Comercio Minorista,1426301.61,317,Alto Riesgo,1.0
+1049,2026-06-18,Independientes,1676393.99,451,Alto Riesgo,1.0
+1050,2026-06-19,Independientes,2399408.95,377,Alto Riesgo,1.0
+1051,2026-06-20,Comercio Minorista,1818438.99,414,Alto Riesgo,2.0
+1052,2026-06-21,Comercio Minorista,2959483.77,614,Riesgo Medio,3.0
+1053,2026-06-22,Comercio Minorista,2580236.87,508,Riesgo Medio,4.0
+1054,2026-06-23,Minería/Servicios,4878762.97,631,Riesgo Medio,4.0
+1055,2026-06-24,Comercio Minorista,1887119.49,603,Riesgo Medio,1.0
+1056,2026-06-25,Ganadería/Agro,7545565.76,850,Premium / Excelente,4.0
+1057,2026-06-26,Comercio Minorista,2620032.48,495,Alto Riesgo,5.0
+1058,2026-06-27,Independientes,3115060.1,633,Riesgo Medio,4.0
+1059,2026-06-28,Minería/Servicios,7206104.59,850,Premium / Excelente,4.0
+1060,2026-06-29,Independientes,1859172.71,410,Alto Riesgo,1.0
+1061,2026-06-30,Comercio Minorista,2332744.25,626,Riesgo Medio,2.0
+1062,2026-07-01,Independientes,1987325.76,546,Riesgo Medio,3.0
+1063,2026-07-02,Minería/Servicios,4999109.24,739,Premium / Excelente,
+1064,2026-07-03,Ganadería/Agro,3688177.43,499,Alto Riesgo,5.0
+1065,2026-07-04,Minería/Servicios,5545821.89,615,Riesgo Medio,
+1066,2026-07-05,Comercio Minorista,2034866.1,380,Alto Riesgo,
+1067,2026-07-06,Comercio Minorista,1701681.22,413,Alto Riesgo,1.0
+1068,2026-07-07,Comercio Minorista,2217195.2,369,Alto Riesgo,
+1069,2026-07-08,Independientes,2365027.96,520,Riesgo Medio,2.0
+1070,2026-07-09,Minería/Servicios,7101627.18,850,Premium / Excelente,5.0
+1071,2026-07-10,Comercio Minorista,1984984.87,576,Riesgo Medio,1.0
+1072,2026-07-11,Comercio Minorista,2179157.64,504,Riesgo Medio,1.0
+1073,2026-07-12,Independientes,2278152.54,406,Alto Riesgo,1.0
+1074,2026-07-13,Minería/Servicios,5158263.56,786,Premium / Excelente,5.0
+1075,2026-07-14,Ganadería/Agro,6145559.11,734,Premium / Excelente,3.0
+1076,2026-07-15,Independientes,2864874.2,498,Alto Riesgo,3.0
+1077,2026-07-16,Comercio Minorista,3142842.78,609,Riesgo Medio,
+1078,2026-07-17,Independientes,2918832.28,439,Alto Riesgo,
+1079,2026-07-18,Minería/Servicios,4395504.29,499,Alto Riesgo,
+1080,2026-07-19,Independientes,1943920.75,380,Alto Riesgo,1.0
+1081,2026-07-20,Minería/Servicios,3285633.93,630,Riesgo Medio,4.0
+1082,2026-07-21,Independientes,2410913.42,390,Alto Riesgo,2.0
+1083,2026-07-22,Ganadería/Agro,4950078.16,652,Riesgo Medio,5.0
+1084,2026-07-23,Independientes,2409562.75,653,Riesgo Medio,1.0
+1085,2026-07-24,Minería/Servicios,4833931.2,770,Premium / Excelente,4.0
+1086,2026-07-25,Ganadería/Agro,6143592.16,809,Premium / Excelente,4.0
+1087,2026-07-26,Ganadería/Agro,5322598.87,582,Riesgo Medio,4.0
+1088,2026-07-27,Comercio Minorista,2259777.54,592,Riesgo Medio,1.0
+1089,2026-07-28,Comercio Minorista,1550733.71,408,Alto Riesgo,1.0
+1090,2026-07-29,Comercio Minorista,3022056.31,548,Riesgo Medio,
+1091,2026-07-30,Comercio Minorista,1779454.36,562,Riesgo Medio,2.0
+1092,2026-07-31,Comercio Minorista,1606030.61,548,Riesgo Medio,1.0
+1093,2026-08-01,Independientes,3757894.09,546,Riesgo Medio,3.0
+1094,2026-08-02,Ganadería/Agro,5859857.23,751,Premium / Excelente,5.0
+1095,2026-08-03,Comercio Minorista,2133302.63,400,Alto Riesgo,1.0
+1096,2026-08-04,Comercio Minorista,2852582.21,600,Riesgo Medio,5.0
+1097,2026-08-05,Independientes,2549969.81,490,Alto Riesgo,3.0
+1098,2026-08-06,Ganadería/Agro,5023156.65,759,Premium / Excelente,3.0
+1099,2026-08-07,Ganadería/Agro,5809968.8,796,Premium / Excelente,5.0
+1100,2026-08-08,Independientes,2173588.62,503,Riesgo Medio,2.0

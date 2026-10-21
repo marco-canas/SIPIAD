@@ -1,0 +1,81 @@
+ID_Empleado,Departamento,Anos_Experiencia,Salario_Mensual_USD,Puntuacion_Evaluacion,Modalidad
+EMP-001,IT,16,6204,4.39,Presencial
+EMP-002,Ventas,5,2334,4.57,Presencial
+EMP-003,Recursos Humanos,4,3386,1.25,Presencial
+EMP-004,IT,7,6291,4.53,Remoto
+EMP-005,Ventas,1,4370,2.79,Híbrido
+EMP-006,Ventas,15,5035,3.04,Presencial
+EMP-007,Finanzas,19,3351,3.51,Presencial
+EMP-008,Finanzas,23,2437,4.71,Híbrido
+EMP-009,Recursos Humanos,11,7080,1.08,Remoto
+EMP-010,Ventas,5,4935,2.91,Híbrido
+EMP-011,Ventas,0,4034,3.75,Híbrido
+EMP-012,Finanzas,3,5460,3.89,Presencial
+EMP-013,IT,16,2198,3.77,Híbrido
+EMP-014,IT,12,3767,1.54,Híbrido
+EMP-015,Marketing,17,95000,2.2,Presencial
+EMP-016,Finanzas,4,1856,2.43,Presencial
+EMP-017,Marketing,23,3860,4.22,Presencial
+EMP-018,Finanzas,23,3411,2.12,Presencial
+EMP-019,Recursos Humanos,2,3109,1.84,Híbrido
+EMP-020,Ventas,10,4930,4.83,Híbrido
+EMP-021,Recursos Humanos,12,3246,1.04,Remoto
+EMP-022,Finanzas,3,7407,4.99,Remoto
+EMP-023,Ventas,13,4362,3.71,Híbrido
+EMP-024,IT,21,2340,4.31,Remoto
+EMP-025,IT,10,7185,2.18,Híbrido
+EMP-026,Marketing,9,1466,1.06,Remoto
+EMP-027,Finanzas,18,3045,3.95,Presencial
+EMP-028,Finanzas,17,2908,4.34,Remoto
+EMP-029,IT,5,4830,3.96,Presencial
+EMP-030,Recursos Humanos,14,4411,1.57,Presencial
+EMP-031,Ventas,20,3493,4.01,Presencial
+EMP-032,Recursos Humanos,9,4932,4.08,Presencial
+EMP-033,Recursos Humanos,4,5029,3.63,Remoto
+EMP-034,IT,4,2710,4.06,Híbrido
+EMP-035,IT,9,1675,4.38,Presencial
+EMP-036,IT,4,2176,3.45,Remoto
+EMP-037,Marketing,2,2407,1.35,Presencial
+EMP-038,Recursos Humanos,22,6339,2.95,Remoto
+EMP-039,Finanzas,5,3160,1.31,Remoto
+EMP-040,Ventas,3,1757,2.63,Remoto
+EMP-041,Marketing,17,6313,2.63,Híbrido
+EMP-042,Finanzas,8,6901,1.26,Remoto
+EMP-043,Recursos Humanos,16,2082,2.4,Remoto
+EMP-044,IT,12,3394,1.44,Híbrido
+EMP-045,Recursos Humanos,14,5961,4.23,Híbrido
+EMP-046,Ventas,19,3867,4.79,Remoto
+EMP-047,Marketing,16,7067,1.29,Híbrido
+EMP-048,Marketing,12,6159,4.82,Presencial
+EMP-049,Ventas,15,5877,3.09,Presencial
+EMP-050,Finanzas,21,5990,2.2,Híbrido
+EMP-051,Finanzas,3,6547,1.31,Híbrido
+EMP-052,Marketing,4,2810,3.0,Remoto
+EMP-053,Marketing,4,4688,4.18,Híbrido
+EMP-054,IT,8,6535,3.83,Remoto
+EMP-055,Finanzas,16,3654,1.2,Presencial
+EMP-056,Ventas,12,5694,1.29,Híbrido
+EMP-057,Finanzas,1,3146,2.61,Remoto
+EMP-058,IT,12,6010,2.18,Remoto
+EMP-059,Marketing,21,5999,1.93,Presencial
+EMP-060,Marketing,20,4008,2.12,Híbrido
+EMP-061,IT,22,5025,4.21,Presencial
+EMP-062,Ventas,18,4736,4.72,Remoto
+EMP-063,Marketing,2,7010,2.62,Remoto
+EMP-064,Recursos Humanos,9,7268,4.62,Híbrido
+EMP-065,Marketing,1,5002,2.29,Remoto
+EMP-066,Recursos Humanos,12,5377,2.91,Híbrido
+EMP-067,IT,18,5899,1.9,Presencial
+EMP-068,IT,16,3170,3.56,Híbrido
+EMP-069,Marketing,20,7006,4.92,Híbrido
+EMP-070,Finanzas,13,7342,3.41,Remoto
+EMP-071,Recursos Humanos,11,5022,2.43,Remoto
+EMP-072,Ventas,20,4019,3.59,Híbrido
+EMP-073,Marketing,11,2102,,Remoto
+EMP-074,Ventas,10,1564,4.55,Remoto
+EMP-075,Marketing,6,5458,3.01,Remoto
+EMP-076,Finanzas,3,4319,2.8,Híbrido
+EMP-077,Finanzas,18,3758,3.34,Remoto
+EMP-078,Finanzas,0,3063,3.5,Híbrido
+EMP-079,Finanzas,23,1315,1.29,Remoto
+EMP-080,IT,2,3584,3.73,Presencial

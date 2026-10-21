@@ -1,0 +1,151 @@
+ID_Usuario,Edad,Tipo_Suscripcion,Minutos_Vistos_Mes,Dispositivo_Principal,Cancelo_Suscripcion
+USR-0001,22,Básico,1420,Tablet,Sí
+USR-0002,31,Gratuito,812,Tablet,No
+USR-0003,27,Premium,1242,Tablet,No
+USR-0004,15,Básico,666,Smartphone,No
+USR-0005,17,Gratuito,959,Tablet,No
+USR-0006,69,Gratuito,1327,Tablet,No
+USR-0007,33,Gratuito,562,Laptop,No
+USR-0008,37,Básico,1376,Tablet,No
+USR-0009,74,Gratuito,1192,Smartphone,No
+USR-0010,14,Premium,1420,Smartphone,No
+USR-0011,74,Básico,1289,Laptop,Sí
+USR-0012,52,Gratuito,1745,Tablet,No
+USR-0013,71,Básico,1250,Tablet,No
+USR-0014,53,Básico,1028,Smartphone,No
+USR-0015,25,Gratuito,1248,Tablet,Sí
+USR-0016,150,Gratuito,1417,Tablet,Sí
+USR-0017,29,Gratuito,1219,Tablet,No
+USR-0018,65,Básico,1216,Smart TV,No
+USR-0019,23,Básico,919,Laptop,No
+USR-0020,34,Básico,934,Smart TV,No
+USR-0021,23,Premium,638,Laptop,No
+USR-0022,24,Premium,1899,Smartphone,No
+USR-0023,36,Básico,702,Tablet,Sí
+USR-0024,56,Premium,922,Laptop,No
+USR-0025,62,Gratuito,912,Smart TV,No
+USR-0026,69,Gratuito,1557,Tablet,No
+USR-0027,30,Gratuito,1082,Smartphone,No
+USR-0028,66,Gratuito,1699,Laptop,Sí
+USR-0029,57,Básico,930,Laptop,No
+USR-0030,47,Premium,1311,Laptop,No
+USR-0031,56,Gratuito,865,Tablet,No
+USR-0032,19,Gratuito,2058,Smart TV,No
+USR-0033,40,Básico,724,Smart TV,No
+USR-0034,66,PREMIUM_ERR,1323,Laptop,No
+USR-0035,64,Gratuito,1453,Smartphone,No
+USR-0036,66,Básico,1365,Smartphone,No
+USR-0037,43,Gratuito,1125,Smart TV,No
+USR-0038,62,Gratuito,1148,Smartphone,Sí
+USR-0039,55,Premium,1217,Smart TV,No
+USR-0040,29,Premium,1141,Laptop,No
+USR-0041,17,Gratuito,1585,Smart TV,No
+USR-0042,29,Premium,2084,Smart TV,No
+USR-0043,30,Básico,977,Laptop,No
+USR-0044,33,Premium,652,Smartphone,No
+USR-0045,48,Básico,1164,Smart TV,No
+USR-0046,43,Básico,2231,Smart TV,No
+USR-0047,67,Básico,878,Laptop,No
+USR-0048,52,Básico,1855,Smartphone,Sí
+USR-0049,70,Gratuito,1871,Smart TV,No
+USR-0050,14,Gratuito,978,Laptop,No
+USR-0051,39,Gratuito,1427,Smart TV,No
+USR-0052,21,Básico,1851,Tablet,No
+USR-0053,62,Gratuito,1048,Laptop,No
+USR-0054,46,Básico,1118,Smartphone,No
+USR-0055,72,Premium,967,Smartphone,No
+USR-0056,40,Gratuito,794,Smartphone,No
+USR-0057,65,Básico,940,Smartphone,No
+USR-0058,74,Básico,710,Smart TV,No
+USR-0059,26,Premium,1213,Smart TV,No
+USR-0060,44,Gratuito,892,Smartphone,No
+USR-0061,18,Básico,1293,Smartphone,No
+USR-0062,23,Premium,577,Smartphone,No
+USR-0063,60,Premium,1332,Smart TV,No
+USR-0064,41,Básico,1533,Smartphone,No
+USR-0065,32,Básico,402,Smartphone,No
+USR-0066,42,Básico,1349,Tablet,No
+USR-0067,69,Premium,1691,Tablet,No
+USR-0068,72,Básico,716,Smartphone,Sí
+USR-0069,35,Gratuito,1869,Laptop,No
+USR-0070,31,Premium,1367,Smartphone,Sí
+USR-0071,48,Básico,917,Tablet,No
+USR-0072,15,Básico,1177,Laptop,No
+USR-0073,39,Gratuito,1423,Laptop,No
+USR-0074,55,Básico,1230,Smartphone,No
+USR-0075,73,Gratuito,1415,Tablet,No
+USR-0076,31,Básico,831,Tablet,No
+USR-0077,71,Gratuito,1267,Laptop,No
+USR-0078,35,Básico,634,Smartphone,No
+USR-0079,61,Premium,1155,Smart TV,No
+USR-0080,60,Gratuito,838,Smart TV,No
+USR-0081,62,Premium,905,Tablet,No
+USR-0082,43,Básico,1694,Smart TV,No
+USR-0083,52,Premium,1636,Tablet,No
+USR-0084,47,Básico,1443,Tablet,No
+USR-0085,69,Básico,763,Tablet,No
+USR-0086,64,Básico,1073,Smart TV,No
+USR-0087,45,Premium,1685,Tablet,No
+USR-0088,47,Básico,1256,Laptop,Sí
+USR-0089,13,Gratuito,2127,Smartphone,No
+USR-0090,26,Básico,1357,Smartphone,No
+USR-0091,45,Premium,1276,Tablet,No
+USR-0092,47,Básico,1076,Smartphone,Sí
+USR-0093,17,Básico,1253,Smart TV,No
+USR-0094,50,Básico,1139,Smart TV,No
+USR-0095,53,Premium,1483,Smartphone,No
+USR-0096,62,Gratuito,1582,Smart TV,No
+USR-0097,62,Básico,885,Smartphone,No
+USR-0098,69,Gratuito,667,Smartphone,No
+USR-0099,65,Gratuito,465,Smartphone,No
+USR-0100,72,Gratuito,1403,Tablet,No
+USR-0101,23,Gratuito,758,Smartphone,No
+USR-0102,14,Básico,338,Tablet,No
+USR-0103,56,Gratuito,1355,Smartphone,Sí
+USR-0104,29,Básico,2197,Smartphone,No
+USR-0105,51,Gratuito,1197,Smartphone,Sí
+USR-0106,32,Gratuito,1535,Smart TV,No
+USR-0107,26,Gratuito,1232,Tablet,No
+USR-0108,44,Gratuito,1160,Tablet,No
+USR-0109,46,Básico,1567,Smartphone,No
+USR-0110,37,Básico,1083,Smartphone,No
+USR-0111,19,Básico,1306,Smart TV,Sí
+USR-0112,47,Básico,1328,Smart TV,No
+USR-0113,59,Gratuito,932,Smart TV,No
+USR-0114,41,Premium,1596,Tablet,No
+USR-0115,34,Básico,1130,Tablet,No
+USR-0116,53,Básico,897,Tablet,No
+USR-0117,55,Gratuito,1414,Smartphone,No
+USR-0118,25,Gratuito,840,Tablet,No
+USR-0119,25,Gratuito,1211,Laptop,No
+USR-0120,13,Gratuito,1196,Laptop,No
+USR-0121,66,Básico,1634,Smart TV,No
+USR-0122,48,Básico,1389,Tablet,No
+USR-0123,16,Básico,1189,Laptop,Sí
+USR-0124,49,Básico,1527,Smart TV,No
+USR-0125,56,Premium,1756,Tablet,No
+USR-0126,52,Básico,1423,Smartphone,No
+USR-0127,73,Premium,1204,Laptop,Sí
+USR-0128,65,Gratuito,675,Smartphone,No
+USR-0129,71,Gratuito,773,Tablet,No
+USR-0130,72,Gratuito,1077,Laptop,No
+USR-0131,58,Básico,956,Tablet,Sí
+USR-0132,25,Premium,1125,Smartphone,No
+USR-0133,67,Gratuito,1222,Laptop,No
+USR-0134,50,Premium,1411,Smartphone,No
+USR-0135,36,Gratuito,1171,Tablet,No
+USR-0136,31,Premium,1394,Tablet,No
+USR-0137,13,Gratuito,1225,Smartphone,No
+USR-0138,50,Gratuito,409,Laptop,No
+USR-0139,17,Básico,824,Smartphone,No
+USR-0140,28,Gratuito,1142,Tablet,No
+USR-0141,70,Gratuito,716,Smartphone,Sí
+USR-0142,36,Gratuito,1439,Tablet,Sí
+USR-0143,68,Premium,1812,Smartphone,No
+USR-0144,39,Básico,1687,Laptop,No
+USR-0145,13,Gratuito,1114,Laptop,No
+USR-0146,46,Básico,1796,Smartphone,No
+USR-0147,48,Básico,1259,Smartphone,No
+USR-0148,16,Gratuito,1065,Laptop,No
+USR-0149,74,Básico,954,Tablet,Sí
+USR-0150,12,Gratuito,1079,Laptop,No

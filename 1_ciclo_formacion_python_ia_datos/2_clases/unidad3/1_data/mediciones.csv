@@ -1,0 +1,8 @@
+timestamp,exp_id,densidad
+1,EXP_01,1.2
+2,EXP_01,2.4
+2,EXP_01,2.4
+3,EXP_01,
+1,EXP_02,1.1
+2,EXP_02,1.8
+3,EXP_02,2.5

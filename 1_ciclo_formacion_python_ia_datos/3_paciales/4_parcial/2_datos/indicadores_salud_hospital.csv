@@ -1,0 +1,101 @@
+ID_Paciente,Presion_Sistolica,Colesterol_mgDl,Fumador,IMC,Diagnostico_Riesgo
+PAC-001,144,298.0,No Fumador,21.3,Bajo
+PAC-002,107,303.0,Fumador,27.4,Alto
+PAC-003,152,269.0,No Fumador,35.8,Bajo
+PAC-004,136,277.0,No Fumador,28.8,Bajo
+PAC-005,164,291.0,No Fumador,18.9,Bajo
+PAC-006,146,206.0,No Fumador,27.6,Bajo
+PAC-007,134,207.0,Fumador,19.1,Alto
+PAC-008,122,170.0,No Fumador,39.3,Alto
+PAC-009,12,231.0,No Fumador,21.2,Alto
+PAC-010,159,218.0,No Fumador,33.7,Bajo
+PAC-011,93,280.0,Fumador,39.4,Alto
+PAC-012,109,236.0,No Fumador,36.3,Alto
+PAC-013,136,198.0,No Fumador,33.5,Bajo
+PAC-014,104,296.0,Fumador,36.5,Bajo
+PAC-015,159,264.0,No Fumador,39.6,Alto
+PAC-016,136,238.0,No Fumador,31.9,Bajo
+PAC-017,167,234.0,No Fumador,30.5,Bajo
+PAC-018,164,277.0,No Fumador,32.0,Bajo
+PAC-019,98,289.0,No Fumador,30.0,Bajo
+PAC-020,179,266.0,No Fumador,32.2,Alto
+PAC-021,105,276.0,No Fumador,28.2,Bajo
+PAC-022,158,220.0,Fumador,23.2,Bajo
+PAC-023,150,235.0,No Fumador,21.1,Bajo
+PAC-024,99,182.0,No Fumador,20.0,Bajo
+PAC-025,139,230.0,No Fumador,24.2,Bajo
+PAC-026,92,301.0,No Fumador,19.5,Bajo
+PAC-027,166,210.0,Fumador,30.7,Bajo
+PAC-028,159,210.0,No Fumador,24.6,Bajo
+PAC-029,170,247.0,No Fumador,36.2,Alto
+PAC-030,140,177.0,No Fumador,20.1,Bajo
+PAC-031,108,192.0,No Fumador,23.4,Alto
+PAC-032,131,235.0,No Fumador,34.2,Bajo
+PAC-033,124,166.0,Fumador,31.4,Bajo
+PAC-034,135,247.0,No Fumador,19.9,Bajo
+PAC-035,115,247.0,Fumador,37.4,Bajo
+PAC-036,158,214.0,Fumador,37.4,Alto
+PAC-037,153,223.0,No Fumador,25.6,Bajo
+PAC-038,126,234.0,Fumador,25.8,Bajo
+PAC-039,173,154.0,No Fumador,39.8,Alto
+PAC-040,138,151.0,No Fumador,32.0,Alto
+PAC-041,110,171.0,No Fumador,29.9,Bajo
+PAC-042,163,261.0,No Fumador,36.5,Alto
+PAC-043,153,206.0,No Fumador,24.6,Alto
+PAC-044,94,215.0,Fumador,27.7,Alto
+PAC-045,159,223.0,No Fumador,24.3,Bajo
+PAC-046,179,247.0,No Fumador,35.5,Bajo
+PAC-047,93,293.0,No Fumador,30.8,Bajo
+PAC-048,128,261.0,No Fumador,32.7,Alto
+PAC-049,124,274.0,No Fumador,23.9,Bajo
+PAC-050,90,235.0,No Fumador,23.2,Alto
+PAC-051,113,,No Fumador,29.0,Bajo
+PAC-052,146,,No Fumador,34.4,Bajo
+PAC-053,159,,No Fumador,29.8,Alto
+PAC-054,130,,Fumador,19.2,Bajo
+PAC-055,143,287.0,Fumador,37.2,Alto
+PAC-056,135,248.0,Fumador,19.9,Alto
+PAC-057,149,212.0,No Fumador,39.1,Bajo
+PAC-058,149,198.0,No Fumador,19.0,Alto
+PAC-059,146,181.0,No Fumador,33.4,Bajo
+PAC-060,120,284.0,No Fumador,20.3,Bajo
+PAC-061,173,170.0,Fumador,38.1,Alto
+PAC-062,113,169.0,No Fumador,28.5,Bajo
+PAC-063,178,303.0,No Fumador,21.5,Alto
+PAC-064,125,276.0,No Fumador,25.8,Bajo
+PAC-065,174,217.0,No Fumador,22.0,Bajo
+PAC-066,119,259.0,No Fumador,22.2,Bajo
+PAC-067,113,265.0,No Fumador,38.9,Bajo
+PAC-068,119,292.0,No Fumador,28.1,Bajo
+PAC-069,175,269.0,Fumador,35.5,Alto
+PAC-070,96,228.0,No Fumador,32.3,Alto
+PAC-071,124,265.0,Fumador,33.0,Alto
+PAC-072,144,241.0,No Fumador,21.3,Alto
+PAC-073,103,163.0,Fumador,23.5,Alto
+PAC-074,99,304.0,No Fumador,35.4,Alto
+PAC-075,169,274.0,Fumador,39.4,Bajo
+PAC-076,105,207.0,No Fumador,24.1,Bajo
+PAC-077,143,177.0,No Fumador,24.3,Alto
+PAC-078,178,175.0,Fumador,28.7,Alto
+PAC-079,166,262.0,Fumador,39.7,Bajo
+PAC-080,159,215.0,No Fumador,24.3,Bajo
+PAC-081,133,302.0,No Fumador,27.2,Bajo
+PAC-082,162,280.0,Fumador,37.7,Alto
+PAC-083,134,193.0,No Fumador,18.6,Alto
+PAC-084,145,246.0,Fumador,19.4,Alto
+PAC-085,173,191.0,No Fumador,31.5,Bajo
+PAC-086,171,155.0,No Fumador,38.0,Bajo
+PAC-087,146,172.0,No Fumador,23.6,Alto
+PAC-088,110,238.0,No Fumador,28.6,Alto
+PAC-089,157,272.0,Fumador,28.2,Bajo
+PAC-090,139,296.0,No Fumador,28.7,Bajo
+PAC-091,122,200.0,Fumador,31.9,Bajo
+PAC-092,96,160.0,No Fumador,28.6,Bajo
+PAC-093,159,161.0,No Fumador,28.1,Alto
+PAC-094,104,223.0,No Fumador,28.7,Bajo
+PAC-095,171,157.0,Fumador,31.2,Bajo
+PAC-096,121,301.0,Fumador,30.0,Bajo
+PAC-097,164,190.0,No Fumador,36.9,Alto
+PAC-098,109,234.0,No Fumador,19.6,Alto
+PAC-099,177,221.0,Fumador,36.4,Bajo
+PAC-100,104,204.0,No Fumador,36.6,Bajo

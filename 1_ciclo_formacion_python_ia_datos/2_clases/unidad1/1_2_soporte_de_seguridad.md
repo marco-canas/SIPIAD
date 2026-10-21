@@ -1,0 +1,7 @@
+Es importante saber cuándo una versión de Python deja de recibir actualizaciones de seguridad porque, a partir de ese momento, pueden dejar de corregirse las vulnerabilidades que se descubran en ella. Esto aumenta el riesgo de que un atacante aproveche fallos de seguridad para acceder a información, ejecutar código malicioso o comprometer los sistemas donde se ejecutan nuestros programas.
+
+En el contexto de la investigación científica, utilizar versiones con soporte vigente ayuda a proteger los datos, especialmente cuando trabajamos con información sensible de salud pública, estudiantes o comunidades. También contribuye a mantener un entorno computacional confiable y facilita el mantenimiento de los proyectos a largo plazo.
+
+Ejemplo: si un equipo del Semillero SIPIAD desarrolla en Python un modelo de Machine Learning para analizar datos epidemiológicos del Bajo Cauca, debería utilizar una versión con soporte de seguridad y verificar la compatibilidad de sus bibliotecas. Si la versión deja de recibir actualizaciones, el equipo debe planificar una migración a una versión compatible que tenga soporte vigente, probar el código y documentar los cambios.
+
+Idea clave: no basta con que un programa funcione; también debemos procurar que sea seguro, mantenible y reproducible. Por eso, al elegir una versión de Python, debemos considerar tanto su compatibilidad con las bibliotecas como su ciclo de vida y soporte de seguridad.
